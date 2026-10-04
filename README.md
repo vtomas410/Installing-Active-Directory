@@ -203,8 +203,7 @@ Verify that Windows Server is installed correctly.
 9. Continue through the wizard.
 10. Make sure the required management tools are selected.
 11. Select **Install**.
-12. Wait for the installation to complete.<img width="1060" height="820" alt="Configure a Domain Controller" src="https://github.com/user-attachments/assets/7ee37844-d6f5-4ee7-8867-e8b553e58b22" />
-
+12. Wait for the installation to complete.
 
 ---
 
