@@ -523,7 +523,8 @@ Future additions to the lab can include:
 - User lockout policies
 - Help desk troubleshooting scenarios
 
-
+Next I will create and set up Group Policies in GPO
+https://github.com/vtomas410/Creating-And-Setting-Up-GPO
 <!--
  ```diff
 - text in red
