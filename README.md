@@ -524,7 +524,8 @@ Future additions to the lab can include:
 - Help desk troubleshooting scenarios
 
 Next I will create and set up Group Policies in GPO
-https://github.com/vtomas410/Creating-And-Setting-Up-GPO
+[Creating And Setting Up GPO](https://github.com/vtomas410/Creating-And-Setting-Up-GPO)
+
 <!--
  ```diff
 - text in red
