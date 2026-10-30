@@ -363,11 +363,11 @@ Distribution groups do not provide resource permissions like security groups.
 
 Example:
 
-```text
+
 First Name: John
 Last Name: Smith
 Username: jsmith
-```
+
 
 ---
 
@@ -384,13 +384,12 @@ Username: jsmith
 
 Example:
 
-```text
 John Smith
     ↓
 IT-Users
     ↓
 IT-Admins
-```
+
 
 ---
 
@@ -431,19 +430,19 @@ A basic lab can be organized like this:
 
 ```text
 Active Directory Domain
-│
-├── USA
-│   │
-│   ├── Users
-│   │   ├── IT
-│   │   ├── HR
-│   │   └── Finance
-│   │
-│   ├── Computers
-│   │
-│   └── Groups
-│
-└── Domain Controllers
+  │
+  ├── USA
+  │   │
+  │   ├── Users
+  │   │   ├── IT
+  │   │   ├── HR
+  │   │   └── Finance
+  │   │
+  │   ├── Computers
+  │   │
+  │   └── Groups
+  │
+  └── Domain Controllers
 ```
 
 ---
